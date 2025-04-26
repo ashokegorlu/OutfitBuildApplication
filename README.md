@@ -72,7 +72,7 @@ README.md
 
 # Torrins Project
 
-[![Demo Video](https://drive.google.com/file/d/1etCTSkAcabGrSiy3rWumm6WeEnFN_TyD/view?usp=sharing)]
+[![Demo Video](https://drive.google.com/file/d/1etCTSkAcabGrSiy3rWumm6WeEnFN_TyD/view?usp=sharing)](https://drive.google.com/file/d/1etCTSkAcabGrSiy3rWumm6WeEnFN_TyD)
 
 Click the image to watch the demo video!
 
