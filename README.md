@@ -70,8 +70,12 @@ README.md
 
 ## Demo
 
-📹 A demonstration video is attached:  
-**Screen Recording 2025-04-26 192913.mp4** showcasing the application's features.
+# Torrins Project
+
+[![Demo Video](https://drive.google.com/file/d/1etCTSkAcabGrSiy3rWumm6WeEnFN_TyD/view?usp=sharing)]
+
+Click the image to watch the demo video!
+
 
 ## Learn More
 
